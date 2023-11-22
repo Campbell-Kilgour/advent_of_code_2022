@@ -14,8 +14,6 @@ enum Move {
 //
 // Y - Paper
 // X - Rock
-///wlpdnmaobwdoabd;opBAWPIDb AOWNBD;oABWDOss
-
 // Z - Scissors
 
 fn decrypt_strategy(letter: &str) -> Result<Move, &'static str> {
